@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 收藏羽毛</title>
+    <link>/zh/categories/</link>
+    <description>Recent content in Categories on 收藏羽毛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>themes</title>
+      <link>/zh/categories/themes/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>/zh/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

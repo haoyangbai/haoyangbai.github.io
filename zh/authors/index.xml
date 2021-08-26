@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on 收藏羽毛</title>
+    <link>/zh/authors/</link>
+    <description>Recent content in Authors on 收藏羽毛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/zh/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>example-author</title>
+      <link>/zh/authors/example-author/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/zh/authors/example-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Authors</title>
+      <link>/zh/authors/hugo-authors/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/authors/hugo-authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Bai</title>
+      <link>/zh/authors/haoyangbai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/authors/haoyangbai/</guid>
+      <description>个人简介 嗨！ 详细信息 爱好: 古典音乐 吃饭时看书 早晨跑步 小目标: 读四十本书 | 67% 瘦三十斤 | 70% 翻一翻外尔的原著 | 20% 用大提琴演奏舒伯特的音乐瞬间 | NULL</description>
+    </item>
+    
+  </channel>
+</rss>
