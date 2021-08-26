@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 收藏羽毛</title>
+    <title>Tags on 收集羽毛</title>
     <link>/zh/tags/</link>
-    <description>Recent content in Tags on 收藏羽毛</description>
+    <description>Recent content in Tags on 收集羽毛</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>image</title>
-      <link>/zh/tags/image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <title>协奏曲</title>
+      <link>/zh/tags/%E5%8D%8F%E5%A5%8F%E6%9B%B2/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/image/</guid>
+      <guid>/zh/tags/%E5%8D%8F%E5%A5%8F%E6%9B%B2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>css</title>
-      <link>/zh/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>小提琴</title>
+      <link>/zh/tags/%E5%B0%8F%E6%8F%90%E7%90%B4/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/css/</guid>
+      <guid>/zh/tags/%E5%B0%8F%E6%8F%90%E7%90%B4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>/zh/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>柴可夫斯基</title>
+      <link>/zh/tags/%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/html/</guid>
+      <guid>/zh/tags/%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>/zh/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>处女作</title>
+      <link>/zh/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/markdown/</guid>
+      <guid>/zh/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>/zh/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>小说</title>
+      <link>/zh/tags/%E5%B0%8F%E8%AF%B4/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/themes/</guid>
+      <guid>/zh/tags/%E5%B0%8F%E8%AF%B4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>text</title>
-      <link>/zh/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>少年班</title>
+      <link>/zh/tags/%E5%B0%91%E5%B9%B4%E7%8F%AD/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/text/</guid>
+      <guid>/zh/tags/%E5%B0%91%E5%B9%B4%E7%8F%AD/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>emoji</title>
-      <link>/zh/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>散文</title>
+      <link>/zh/tags/%E6%95%A3%E6%96%87/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/tags/emoji/</guid>
+      <guid>/zh/tags/%E6%95%A3%E6%96%87/</guid>
       <description></description>
     </item>
     

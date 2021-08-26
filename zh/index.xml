@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>收藏羽毛</title>
+    <title>收集羽毛</title>
     <link>/zh/</link>
-    <description>Recent content on 收藏羽毛</description>
+    <description>Recent content on 收集羽毛</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experiences</title>
       <link>/zh/back-up/home-page/experiences/</link>
@@ -28,21 +28,12 @@
     </item>
     
     <item>
-      <title>Diagram Support</title>
-      <link>/zh/posts/diagram-support/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      <title>柴可夫斯基《D大调小提琴协奏曲》第一乐章音乐分析</title>
+      <link>/zh/posts/%E6%9F%B4%E5%B0%8F%E5%8D%8F%E7%AC%AC%E4%B8%80%E4%B9%90%E7%AB%A0%E9%89%B4%E8%B5%8F/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/zh/posts/diagram-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Support</title>
-      <link>/zh/posts/math-support/</link>
-      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
-      
-      <guid>/zh/posts/math-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
+      <guid>/zh/posts/%E6%9F%B4%E5%B0%8F%E5%8D%8F%E7%AC%AC%E4%B8%80%E4%B9%90%E7%AB%A0%E9%89%B4%E8%B5%8F/</guid>
+      <description>引言 “His music is himself, and the only key is just to understand his character.” —— Evgeny Kissin 海菲兹 莱纳 芝加哥交响乐团 演奏版本 大卫·奥伊斯特拉赫 演奏版本 柴可夫斯基的《D大调小提琴</description>
     </item>
     
     <item>
@@ -82,39 +73,12 @@
     </item>
     
     <item>
-      <title>Featured Image</title>
-      <link>/zh/posts/featured-image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <title>星空</title>
+      <link>/zh/posts/%E6%98%9F%E7%A9%BA/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/zh/posts/featured-image/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/zh/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>/zh/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/zh/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>/zh/posts/%E6%98%9F%E7%A9%BA/</guid>
+      <description>蚂蚁 我，是一只蚂蚁，在大地上忙碌，渺小如漆黑的尘埃。 我们的视力有限，目光短浅。总是只能看见自己，和狭隘的生活圈。也因此，我们终日忙忙碌碌地移动，却总是</description>
     </item>
     
   </channel>
