@@ -304,15 +304,5 @@
                 />
   </url><url>
     <loc>/en/box/box/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/box/box/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/box/box/"
-                />
   </url>
 </urlset>
