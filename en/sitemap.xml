@@ -290,5 +290,29 @@
                 hreflang="en"
                 href="/en/authors/h.bai/"
                 />
+  </url><url>
+    <loc>/en/box/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/box/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/box/"
+                />
+  </url><url>
+    <loc>/en/box/box/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/box/box/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/box/box/"
+                />
   </url>
 </urlset>
