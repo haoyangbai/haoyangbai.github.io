@@ -26,6 +26,110 @@
                 href="/zh/back-up/home-page/blank/"
                 />
   </url><url>
+    <loc>/zh/docs/test-doc/chapter-1/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/test-doc/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/docs/test-doc/chapter-1/"
+                />
+  </url><url>
+    <loc>/zh/docs/test-doc/nested-chapter/chapter-1/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/test-doc/nested-chapter/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/docs/test-doc/nested-chapter/chapter-1/"
+                />
+  </url><url>
+    <loc>/zh/docs/test-doc/chapter-2/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/test-doc/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/docs/test-doc/chapter-2/"
+                />
+  </url><url>
+    <loc>/zh/docs/test-doc/nested-chapter/chapter-2/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/test-doc/nested-chapter/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/docs/test-doc/nested-chapter/chapter-2/"
+                />
+  </url><url>
+    <loc>/zh/docs/test-doc/nested-chapter/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/test-doc/nested-chapter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/docs/test-doc/nested-chapter/"
+                />
+  </url><url>
+    <loc>/zh/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+  </url><url>
+    <loc>/zh/docs/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/docs/"
+                />
+  </url><url>
+    <loc>/zh/docs/test-doc/</loc>
+    <lastmod>2021-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/test-doc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/docs/test-doc/"
+                />
+  </url><url>
     <loc>/zh/authors/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,6 +158,16 @@
   </url><url>
     <loc>/zh/authors/h.bai/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/h.bai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/h.bai/"
+                />
   </url><url>
     <loc>/zh/series/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
@@ -87,19 +201,6 @@
     <loc>/zh/tags/%E5%B0%8F%E6%8F%90%E7%90%B4/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-  </url><url>
     <loc>/zh/posts/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -127,97 +228,6 @@
   </url><url>
     <loc>/zh/series/%E9%9F%B3%E4%B9%90%E5%93%81%E9%89%B4/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/zh/docs/example-doc/chapter-1/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/docs/example-doc/chapter-1/"
-                />
-  </url><url>
-    <loc>/zh/docs/example-doc/nested-chapter/chapter-1/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/nested-chapter/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/docs/example-doc/nested-chapter/chapter-1/"
-                />
-  </url><url>
-    <loc>/zh/docs/example-doc/chapter-2/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/docs/example-doc/chapter-2/"
-                />
-  </url><url>
-    <loc>/zh/docs/example-doc/nested-chapter/chapter-2/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/nested-chapter/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/docs/example-doc/nested-chapter/chapter-2/"
-                />
-  </url><url>
-    <loc>/zh/docs/example-doc/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/docs/example-doc/"
-                />
-  </url><url>
-    <loc>/zh/docs/example-doc/nested-chapter/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/nested-chapter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/docs/example-doc/nested-chapter/"
-                />
-  </url><url>
-    <loc>/zh/docs/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/docs/"
-                />
   </url><url>
     <loc>/zh/series/%E5%86%99%E4%BD%9C/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>

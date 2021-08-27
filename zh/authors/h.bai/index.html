@@ -54,8 +54,8 @@
   integrity="sha256-Zmpaaj&#43;GXFsPF5WdPArSrnW3b30dovldeKsW00xBVwE="  crossorigin></script>
 
 
-<link rel="icon" type="image/png" sizes="32x32" href="/images/icon_hu8da9bb5d52a78097df438aa9114bb38a_28910_32x32_fill_box_center_3.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu8da9bb5d52a78097df438aa9114bb38a_28910_180x180_fill_box_center_3.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/icon_hu4e095ec7151585d8b5292779dc1261c0_28881_32x32_fill_box_center_3.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu4e095ec7151585d8b5292779dc1261c0_28881_180x180_fill_box_center_3.png">
 
 <meta name="description"
   content="H. Bai’s personal blog site.">
@@ -120,6 +120,10 @@
 
 
 
+<meta property="og:locale:alternate" content="en" />
+
+
+
 
 <meta property="og:site_name" content="收集羽毛" />
 
@@ -173,6 +177,19 @@
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">自动</span>
                 </div>
             </div>
+            <div class="relative pt-4 pl-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="pl-1">简体中文</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="/zh/authors/h.bai/">简体中文</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="/en/authors/h.bai/">English</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -200,6 +217,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -334,7 +352,8 @@
   <a href="/zh/posts/%E6%98%9F%E7%A9%BA/" class="font-bold text-xl hover:text-eureka">星空</a>
 </div>
 <div class="content">
-  蚂蚁 我，是一只蚂蚁，在大地上忙碌，渺小如漆黑的尘埃。 我们的视力有限，目光短浅。总是只能看见自己，和狭隘的生活圈。也因此，我们终日忙忙碌碌地移动，却总是
+  这是作者16岁时第一次天马行空的自由创作，感谢张弓长老师提供的契机。
+
 </div>
 
 <div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">

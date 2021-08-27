@@ -8,7 +8,7 @@
     <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experiences</title>
       <link>/zh/back-up/home-page/experiences/</link>
@@ -28,6 +28,42 @@
     </item>
     
     <item>
+      <title>Chapter 1</title>
+      <link>/zh/docs/test-doc/chapter-1/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/docs/test-doc/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of test doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/zh/docs/test-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/docs/test-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/zh/docs/test-doc/chapter-2/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/docs/test-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of test doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/zh/docs/test-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/docs/test-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>柴可夫斯基《D大调小提琴协奏曲》第一乐章音乐分析</title>
       <link>/zh/posts/%E6%9F%B4%E5%B0%8F%E5%8D%8F%E7%AC%AC%E4%B8%80%E4%B9%90%E7%AB%A0%E9%89%B4%E8%B5%8F/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
@@ -37,48 +73,12 @@
     </item>
     
     <item>
-      <title>Chapter 1</title>
-      <link>/zh/docs/example-doc/chapter-1/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/docs/example-doc/chapter-1/</guid>
-      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 1</title>
-      <link>/zh/docs/example-doc/nested-chapter/chapter-1/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/docs/example-doc/nested-chapter/chapter-1/</guid>
-      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 2</title>
-      <link>/zh/docs/example-doc/chapter-2/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/docs/example-doc/chapter-2/</guid>
-      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 2</title>
-      <link>/zh/docs/example-doc/nested-chapter/chapter-2/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/docs/example-doc/nested-chapter/chapter-2/</guid>
-      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>星空</title>
       <link>/zh/posts/%E6%98%9F%E7%A9%BA/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/zh/posts/%E6%98%9F%E7%A9%BA/</guid>
-      <description>蚂蚁 我，是一只蚂蚁，在大地上忙碌，渺小如漆黑的尘埃。 我们的视力有限，目光短浅。总是只能看见自己，和狭隘的生活圈。也因此，我们终日忙忙碌碌地移动，却总是</description>
+      <description>&lt;p&gt;这是作者16岁时第一次天马行空的自由创作，感谢张弓长老师提供的契机。&lt;/p&gt;</description>
     </item>
     
   </channel>

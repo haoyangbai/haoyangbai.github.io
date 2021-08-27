@@ -8,7 +8,7 @@
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experiences</title>
       <link>/en/back-up/home-page/experiences/</link>
@@ -25,6 +25,42 @@
       
       <guid>/en/back-up/home-page/blank/</guid>
       <description>Write anything you like here!</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/en/docs/test-doc/chapter-1/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/docs/test-doc/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of test doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/en/docs/test-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/docs/test-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/en/docs/test-doc/chapter-2/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/docs/test-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of test doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/en/docs/test-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/docs/test-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
     </item>
     
     <item>
