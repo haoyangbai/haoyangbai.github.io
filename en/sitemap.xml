@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/back-up/home-page/experiences/</loc>
-  </url><url>
-    <loc>/en/back-up/home-page/blank/</loc>
-  </url><url>
     <loc>/en/docs/test-doc/chapter-1/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -246,8 +242,6 @@
   </url><url>
     <loc>/en/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/back-up/</loc>
   </url><url>
     <loc>/en/authors/h.bai/</loc>
     <xhtml:link
