@@ -1,5 +1,42 @@
 <!DOCTYPE html>
 <html lang='zh' ><meta charset="utf-8">
+
+<script src="https://l2dwidget.js.org/lib/L2Dwidget.min.js"></script>
+<!--<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>-->
+
+<script>
+    L2Dwidget.init({
+        "model": {
+            "jsonPath": "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json",
+　　        "scale": 1
+        },
+        "display": {
+            "superSample": 2,
+            "position": "right",
+            "width": 300,
+            "height": 600,
+　　        "hOffset": 0,
+            "vOffset": -20
+        },
+        "mobile": {
+            "show": true,
+            "scale": 0.5
+        },
+        "react": {
+            "opacityDefault": 0.8,
+            "opacityOnHover": 1
+        },
+        "dialog": {
+            "enable": true,
+            "script": {
+                'every idle 10s': '$hitokoto$',
+                'tap body': '由xiazeyu的js脚本制作，感谢大佬！',
+                'tap face': '目前的语句使用一言API生成~',
+            }
+        }
+    });
+</script>
+
 <meta name="viewport" content="width=device-width">
 
 
@@ -211,14 +248,6 @@
         class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
         <h1 class="font-bold text-3xl text-primary-text">看板娘</h1>
         <div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
-    <div class="mr-6 my-2">
-        <i class="fas fa-calendar mr-1"></i>
-        <span>0001-01-01</span>
-    </div>
-    <div class="mr-6 my-2">
-        <i class="fas fa-clock mr-1"></i>
-        <span>1分钟阅读时长</span>
-    </div>
     
     
 

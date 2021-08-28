@@ -250,17 +250,7 @@
     <loc>/zh/categories/%E7%9F%AD%E7%AF%87/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/box/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/box/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/box/"
-                />
+    <loc>/zh/back-up/bo-x/</loc>
   </url><url>
     <loc>/zh/back-up/</loc>
     <xhtml:link
@@ -274,8 +264,8 @@
                 href="/zh/back-up/"
                 />
   </url><url>
-    <loc>/zh/box/question/</loc>
+    <loc>/zh/back-up/bo-x/question/</loc>
   </url><url>
-    <loc>/zh/box/poster/</loc>
+    <loc>/zh/back-up/bo-x/poster/</loc>
   </url>
 </urlset>

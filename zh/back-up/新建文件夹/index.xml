@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>收集羽毛</title>
+    <link>/zh/box/</link>
+    <description>Recent content on 收集羽毛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
+</copyright><atom:link href="/zh/box/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>提问箱</title>
+      <link>/zh/box/question/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/box/question/</guid>
+      <description>&lt;p&gt;匿名或实名评论&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>看板娘</title>
+      <link>/zh/box/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/box/poster/</guid>
+      <description>&lt;p&gt;本页测试网站看板娘&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

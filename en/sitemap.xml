@@ -292,16 +292,6 @@
                 />
   </url><url>
     <loc>/en/box/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/box/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/box/"
-                />
   </url><url>
     <loc>/en/box/box/</loc>
   </url>
