@@ -370,15 +370,18 @@
 
 
 
-  <div id="valine-comments" class="mt-4"></div>
-<script defer src="https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js" 
-  integrity="sha256-fPqMAsW3FDt/rNyneSJ7HOpZNRs/O2rM016SU08JtCk="  crossorigin></script>
+  <script id="utterances" src="https://utteranc.es/client.js"
+            repo=https://github.com/haoyangbai/utterances_comments.git
+              theme=preferred-color-scheme
+        crossorigin="anonymous"
+        async>
+</script>
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    new Valine({
-      el: "#valine-comments",appId:"u3mW3PMXa9KCXRgX8s2uaFFR-gzGzoHsz",appKey:"voj6UQuI0yXhhVdEakYFv6Fa",
-    })
-  });
+    if (storageColorScheme == "Light") {
+      document.getElementById('utterances').setAttribute('theme', 'github-light')
+    } else if (storageColorScheme == "Dark") {
+      document.getElementById('utterances').setAttribute('theme', 'github-dark')
+    }
 </script>
 
                 </div>

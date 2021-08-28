@@ -10,24 +10,6 @@
 </copyright>
     <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Experiences</title>
-      <link>/zh/back-up/home-page/experiences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/back-up/home-page/experiences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blank</title>
-      <link>/zh/back-up/home-page/blank/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/back-up/home-page/blank/</guid>
-      <description>青鸟飞过，在原野上留下青色的羽毛</description>
-    </item>
-    
-    <item>
       <title>Chapter 1</title>
       <link>/zh/docs/test-doc/chapter-1/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
@@ -79,24 +61,6 @@
       
       <guid>/zh/posts/%E6%98%9F%E7%A9%BA/</guid>
       <description>&lt;p&gt;16岁时第一次天马行空的自由创作，感谢张弓长老师提供的契机。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>提问箱</title>
-      <link>/zh/back-up/bo-x/question/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/back-up/bo-x/question/</guid>
-      <description>&lt;p&gt;匿名或实名评论&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>看板娘</title>
-      <link>/zh/back-up/bo-x/poster/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/back-up/bo-x/poster/</guid>
-      <description>&lt;p&gt;本页测试网站看板娘&lt;/p&gt;</description>
     </item>
     
   </channel>

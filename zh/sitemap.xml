@@ -2,30 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zh/back-up/home-page/experiences/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/back-up/home-page/experiences/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/back-up/home-page/experiences/"
-                />
-  </url><url>
-    <loc>/zh/back-up/home-page/blank/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/back-up/home-page/blank/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/back-up/home-page/blank/"
-                />
-  </url><url>
     <loc>/zh/docs/test-doc/chapter-1/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -249,23 +225,5 @@
   </url><url>
     <loc>/zh/categories/%E7%9F%AD%E7%AF%87/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/zh/back-up/bo-x/</loc>
-  </url><url>
-    <loc>/zh/back-up/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/back-up/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/back-up/"
-                />
-  </url><url>
-    <loc>/zh/back-up/bo-x/question/</loc>
-  </url><url>
-    <loc>/zh/back-up/bo-x/poster/</loc>
   </url>
 </urlset>
