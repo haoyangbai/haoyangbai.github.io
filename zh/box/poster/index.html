@@ -14,9 +14,9 @@
         "display": {
             "superSample": 2,
             "position": "right",
-            "width": 200,
-            "height": 400,
-　　        "hOffset": 0,
+            "width": 240,
+            "height": 480,
+　　        "hOffset": 60,
             "vOffset": -20
         },
         "mobile": {
@@ -38,6 +38,19 @@
     });
 </script>
 
+<!--
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<div id="poem_sentence"></div>
+<div id="poem_info"></div>
+<script type="text/javascript">
+  jinrishici.load(function(result) {
+    var sentence = document.querySelector("#poem_sentence")
+    var info = document.querySelector("#poem_info")
+    sentence.innerHTML = result.data.content
+    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'
+  });
+</script>
+-->
 
 <!--
 <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
