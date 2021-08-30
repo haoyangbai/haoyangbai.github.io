@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Feather collection</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Feather collection</description>
+    <title>Authors on 收集羽毛</title>
+    <link>https://hbai.site/authors/</link>
+    <description>Recent content in Authors on 收集羽毛</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>example-author</title>
-      <link>/authors/example-author/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      <title>H.Bai</title>
+      <link>https://hbai.site/authors/h.bai/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/authors/example-author/</guid>
+      <guid>https://hbai.site/authors/h.bai/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo Authors</title>
-      <link>/authors/hugo-authors/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/hugo-authors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Bai</title>
-      <link>/authors/haoyangbai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/haoyangbai/</guid>
-      <description>Self Introduction Hi!
-Details Hobby:
- Classical music Read while eating Morning jog  Resolution:
- Read 40 books | 67% Lose 30 pounds | 70% Flip through Weyl&amp;rsquo;s original paper | 20% Play Schubert - Moments musicaux on cello | NULL  </description>
     </item>
     
   </channel>

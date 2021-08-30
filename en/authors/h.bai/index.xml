@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>H. Bai on Feather collection</title>
-    <link>/en/authors/h.bai/</link>
-    <description>Recent content in H. Bai on Feather collection</description>
+    <title>H. Bai on Feather Collection</title>
+    <link>https://hbai.site/en/authors/h.bai/</link>
+    <description>Recent content in H. Bai on Feather Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
-</copyright><atom:link href="/en/authors/h.bai/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="https://hbai.site/en/authors/h.bai/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

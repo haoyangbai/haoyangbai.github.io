@@ -2,264 +2,264 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zh/docs/test-doc/chapter-1/</loc>
+    <loc>https://hbai.site/docs/test-doc/chapter-1/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/test-doc/chapter-1/"
+                href="https://hbai.site/en/docs/test-doc/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/docs/test-doc/chapter-1/"
+                href="https://hbai.site/docs/test-doc/chapter-1/"
                 />
   </url><url>
-    <loc>/zh/docs/test-doc/nested-chapter/chapter-1/</loc>
+    <loc>https://hbai.site/docs/test-doc/nested-chapter/chapter-1/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/test-doc/nested-chapter/chapter-1/"
+                href="https://hbai.site/en/docs/test-doc/nested-chapter/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/docs/test-doc/nested-chapter/chapter-1/"
+                href="https://hbai.site/docs/test-doc/nested-chapter/chapter-1/"
                 />
   </url><url>
-    <loc>/zh/docs/test-doc/chapter-2/</loc>
+    <loc>https://hbai.site/docs/test-doc/chapter-2/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/test-doc/chapter-2/"
+                href="https://hbai.site/en/docs/test-doc/chapter-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/docs/test-doc/chapter-2/"
+                href="https://hbai.site/docs/test-doc/chapter-2/"
                 />
   </url><url>
-    <loc>/zh/docs/test-doc/nested-chapter/chapter-2/</loc>
+    <loc>https://hbai.site/docs/test-doc/nested-chapter/chapter-2/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/test-doc/nested-chapter/chapter-2/"
+                href="https://hbai.site/en/docs/test-doc/nested-chapter/chapter-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/docs/test-doc/nested-chapter/chapter-2/"
+                href="https://hbai.site/docs/test-doc/nested-chapter/chapter-2/"
                 />
   </url><url>
-    <loc>/zh/docs/test-doc/nested-chapter/</loc>
+    <loc>https://hbai.site/docs/test-doc/nested-chapter/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/test-doc/nested-chapter/"
+                href="https://hbai.site/en/docs/test-doc/nested-chapter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/docs/test-doc/nested-chapter/"
+                href="https://hbai.site/docs/test-doc/nested-chapter/"
                 />
   </url><url>
-    <loc>/zh/</loc>
+    <loc>https://hbai.site/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://hbai.site/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/"
+                href="https://hbai.site/"
                 />
   </url><url>
-    <loc>/zh/docs/</loc>
+    <loc>https://hbai.site/docs/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/"
+                href="https://hbai.site/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/docs/"
+                href="https://hbai.site/docs/"
                 />
   </url><url>
-    <loc>/zh/docs/test-doc/</loc>
+    <loc>https://hbai.site/docs/test-doc/</loc>
     <lastmod>2021-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/test-doc/"
+                href="https://hbai.site/en/docs/test-doc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/docs/test-doc/"
+                href="https://hbai.site/docs/test-doc/"
                 />
   </url><url>
-    <loc>/zh/authors/</loc>
+    <loc>https://hbai.site/authors/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://hbai.site/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/"
+                href="https://hbai.site/authors/"
                 />
   </url><url>
-    <loc>/zh/categories/</loc>
+    <loc>https://hbai.site/categories/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://hbai.site/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/categories/"
+                href="https://hbai.site/categories/"
                 />
   </url><url>
-    <loc>/zh/authors/h.bai/</loc>
+    <loc>https://hbai.site/authors/h.bai/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/h.bai/"
+                href="https://hbai.site/en/authors/h.bai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/authors/h.bai/"
+                href="https://hbai.site/authors/h.bai/"
                 />
   </url><url>
-    <loc>/zh/series/</loc>
+    <loc>https://hbai.site/series/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://hbai.site/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/series/"
+                href="https://hbai.site/series/"
                 />
   </url><url>
-    <loc>/zh/tags/</loc>
+    <loc>https://hbai.site/tags/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://hbai.site/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/tags/"
+                href="https://hbai.site/tags/"
                 />
   </url><url>
-    <loc>/zh/tags/%E5%8D%8F%E5%A5%8F%E6%9B%B2/</loc>
+    <loc>https://hbai.site/tags/%E5%8D%8F%E5%A5%8F%E6%9B%B2/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E5%B0%8F%E6%8F%90%E7%90%B4/</loc>
+    <loc>https://hbai.site/tags/%E5%B0%8F%E6%8F%90%E7%90%B4/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/posts/</loc>
+    <loc>https://hbai.site/posts/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="https://hbai.site/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/posts/"
+                href="https://hbai.site/posts/"
                 />
   </url><url>
-    <loc>/zh/tags/%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA/</loc>
+    <loc>https://hbai.site/tags/%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/posts/%E6%9F%B4%E5%B0%8F%E5%8D%8F%E7%AC%AC%E4%B8%80%E4%B9%90%E7%AB%A0%E9%89%B4%E8%B5%8F/</loc>
+    <loc>https://hbai.site/posts/%E6%9F%B4%E5%B0%8F%E5%8D%8F%E7%AC%AC%E4%B8%80%E4%B9%90%E7%AB%A0%E9%89%B4%E8%B5%8F/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/categories/%E7%89%88%E6%9C%AC%E5%88%86%E4%BA%AB/</loc>
+    <loc>https://hbai.site/categories/%E7%89%88%E6%9C%AC%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/categories/%E8%B0%B1%E4%BE%8B/</loc>
+    <loc>https://hbai.site/categories/%E8%B0%B1%E4%BE%8B/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/series/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F/</loc>
+    <loc>https://hbai.site/series/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E5%B9%B8%E7%A6%8F/</loc>
+    <loc>https://hbai.site/tags/%E5%B9%B8%E7%A6%8F/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/categories/%E6%84%9F%E6%82%9F/</loc>
+    <loc>https://hbai.site/categories/%E6%84%9F%E6%82%9F/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E6%B2%BB%E6%84%88/</loc>
+    <loc>https://hbai.site/tags/%E6%B2%BB%E6%84%88/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hbai.site/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/posts/%E7%9C%8B%E8%A7%81%E7%BE%8E%E5%A5%BD/</loc>
+    <loc>https://hbai.site/posts/%E7%9C%8B%E8%A7%81%E7%BE%8E%E5%A5%BD/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E8%91%A1%E8%90%84%E8%86%9C%E7%82%8E/</loc>
+    <loc>https://hbai.site/tags/%E8%91%A1%E8%90%84%E8%86%9C%E7%82%8E/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/categories/%E4%B9%A6%E6%91%98/</loc>
+    <loc>https://hbai.site/categories/%E4%B9%A6%E6%91%98/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/categories/%E5%93%B2%E6%80%9D/</loc>
+    <loc>https://hbai.site/categories/%E5%93%B2%E6%80%9D/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3/</loc>
+    <loc>https://hbai.site/tags/%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0/</loc>
+    <loc>https://hbai.site/tags/%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E6%97%B6%E9%97%B4/</loc>
+    <loc>https://hbai.site/tags/%E6%97%B6%E9%97%B4/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/posts/%E6%97%B6%E9%97%B4%E4%B8%8E%E8%87%AA%E7%94%B1%E6%84%8F%E8%AF%86/</loc>
+    <loc>https://hbai.site/posts/%E6%97%B6%E9%97%B4%E4%B8%8E%E8%87%AA%E7%94%B1%E6%84%8F%E8%AF%86/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/series/%E5%86%99%E4%BD%9C/</loc>
+    <loc>https://hbai.site/series/%E5%86%99%E4%BD%9C/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</loc>
+    <loc>https://hbai.site/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <loc>https://hbai.site/tags/%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E5%B0%91%E5%B9%B4%E7%8F%AD/</loc>
+    <loc>https://hbai.site/tags/%E5%B0%91%E5%B9%B4%E7%8F%AD/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/tags/%E6%95%A3%E6%96%87/</loc>
+    <loc>https://hbai.site/tags/%E6%95%A3%E6%96%87/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/posts/%E6%98%9F%E7%A9%BA/</loc>
+    <loc>https://hbai.site/posts/%E6%98%9F%E7%A9%BA/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zh/categories/%E7%9F%AD%E7%AF%87/</loc>
+    <loc>https://hbai.site/categories/%E7%9F%AD%E7%AF%87/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url>
 </urlset>

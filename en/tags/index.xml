@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Feather collection</title>
-    <link>/en/tags/</link>
-    <description>Recent content in Tags on Feather collection</description>
+    <title>Tags on Feather Collection</title>
+    <link>https://hbai.site/en/tags/</link>
+    <description>Recent content in Tags on Feather Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>image</title>
-      <link>/en/tags/image/</link>
+      <link>https://hbai.site/en/tags/image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/image/</guid>
+      <guid>https://hbai.site/en/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>/en/tags/css/</link>
+      <link>https://hbai.site/en/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/css/</guid>
+      <guid>https://hbai.site/en/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/en/tags/html/</link>
+      <link>https://hbai.site/en/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/html/</guid>
+      <guid>https://hbai.site/en/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>/en/tags/markdown/</link>
+      <link>https://hbai.site/en/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/markdown/</guid>
+      <guid>https://hbai.site/en/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/en/tags/themes/</link>
+      <link>https://hbai.site/en/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/themes/</guid>
+      <guid>https://hbai.site/en/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>/en/tags/text/</link>
+      <link>https://hbai.site/en/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/text/</guid>
+      <guid>https://hbai.site/en/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>/en/tags/emoji/</link>
+      <link>https://hbai.site/en/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/tags/emoji/</guid>
+      <guid>https://hbai.site/en/tags/emoji/</guid>
       <description></description>
     </item>
     

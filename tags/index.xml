@@ -1,74 +1,137 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Feather collection</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Feather collection</description>
+    <title>Tags on 收集羽毛</title>
+    <link>https://hbai.site/tags/</link>
+    <description>Recent content in Tags on 收集羽毛</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://blog.hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>image</title>
-      <link>/tags/image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <title>协奏曲</title>
+      <link>https://hbai.site/tags/%E5%8D%8F%E5%A5%8F%E6%9B%B2/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/image/</guid>
+      <guid>https://hbai.site/tags/%E5%8D%8F%E5%A5%8F%E6%9B%B2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>css</title>
-      <link>/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>小提琴</title>
+      <link>https://hbai.site/tags/%E5%B0%8F%E6%8F%90%E7%90%B4/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>https://hbai.site/tags/%E5%B0%8F%E6%8F%90%E7%90%B4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>柴可夫斯基</title>
+      <link>https://hbai.site/tags/%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://hbai.site/tags/%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>幸福</title>
+      <link>https://hbai.site/tags/%E5%B9%B8%E7%A6%8F/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>https://hbai.site/tags/%E5%B9%B8%E7%A6%8F/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>治愈</title>
+      <link>https://hbai.site/tags/%E6%B2%BB%E6%84%88/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/themes/</guid>
+      <guid>https://hbai.site/tags/%E6%B2%BB%E6%84%88/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>text</title>
-      <link>/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>生活</title>
+      <link>https://hbai.site/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/text/</guid>
+      <guid>https://hbai.site/tags/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>emoji</title>
-      <link>/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>葡萄膜炎</title>
+      <link>https://hbai.site/tags/%E8%91%A1%E8%90%84%E8%86%9C%E7%82%8E/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/emoji/</guid>
+      <guid>https://hbai.site/tags/%E8%91%A1%E8%90%84%E8%86%9C%E7%82%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>战争与和平</title>
+      <link>https://hbai.site/tags/%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/tags/%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>托尔斯泰</title>
+      <link>https://hbai.site/tags/%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/tags/%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>时间</title>
+      <link>https://hbai.site/tags/%E6%97%B6%E9%97%B4/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/tags/%E6%97%B6%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>处女作</title>
+      <link>https://hbai.site/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小说</title>
+      <link>https://hbai.site/tags/%E5%B0%8F%E8%AF%B4/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/tags/%E5%B0%8F%E8%AF%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>少年班</title>
+      <link>https://hbai.site/tags/%E5%B0%91%E5%B9%B4%E7%8F%AD/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/tags/%E5%B0%91%E5%B9%B4%E7%8F%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>散文</title>
+      <link>https://hbai.site/tags/%E6%95%A3%E6%96%87/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/tags/%E6%95%A3%E6%96%87/</guid>
       <description></description>
     </item>
     
