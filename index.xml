@@ -74,7 +74,7 @@
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hbai.site/posts/%E7%9C%8B%E8%A7%81%E7%BE%8E%E5%A5%BD/</guid>
-      <description>&lt;p&gt;这段文字写于眼睛突患疾病一度失去大部分视力后逐渐治愈，能够渐渐看清周围世界丰富的形状与色彩的时候。&lt;/p&gt;</description>
+      <description>&lt;p&gt;这段文字写于眼睛突患疾病失去大部分视力后逐渐治愈，能够渐渐看清周围世界丰富的形状与色彩的时候。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -92,12 +92,21 @@
     </item>
     
     <item>
+      <title>列表</title>
+      <link>https://hbai.site/friends/friendlist/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/friends/friendlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>星空</title>
       <link>https://hbai.site/posts/%E6%98%9F%E7%A9%BA/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hbai.site/posts/%E6%98%9F%E7%A9%BA/</guid>
-      <description>&lt;p&gt;16岁时第一次天马行空的自由创作，感谢张弓长老师提供的契机。&lt;/p&gt;</description>
+      <description>&lt;p&gt;16岁时一次天马行空的自由创作，感谢张弓长老师提供的契机。&lt;/p&gt;</description>
     </item>
     
   </channel>
