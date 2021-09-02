@@ -250,13 +250,7 @@
     <loc>https://hbai.site/posts/%E6%97%B6%E9%97%B4%E4%B8%8E%E8%87%AA%E7%94%B1%E6%84%8F%E8%AF%86/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hbai.site/authors/jding/</loc>
-    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hbai.site/series/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hbai.site/friends/friendlist/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hbai.site/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</loc>
@@ -274,10 +268,16 @@
     <loc>https://hbai.site/posts/%E6%98%9F%E7%A9%BA/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hbai.site/friends/</loc>
-    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hbai.site/categories/%E7%9F%AD%E7%AF%87/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbai.site/authors/jding/</loc>
+    <lastmod>1111-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbai.site/friends/friendlist/</loc>
+    <lastmod>1111-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbai.site/friends/</loc>
+    <lastmod>1111-11-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>
