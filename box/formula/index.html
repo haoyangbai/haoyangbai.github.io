@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang='zh' ><meta charset="utf-8">
-
-
 <meta name="viewport" content="width=device-width">
 
 
@@ -230,38 +228,19 @@
     
 
 
-<label>Mathfield</label>
-
-<math-field style="
+<script src="//unpkg.com/mathlive/dist/mathlive.min.js"></script>
+<math-field virtual-keyboard-mode=manual style="
     font-size: 32px; 
     margin: 3em;
     padding: 8px; 
     border-radius: 8px;
     border: 1px solid rgba(0, 0, 0, .3); 
-    box-shadow: 0 0 8px rgba(0, 0, 0, .2);
-" id="mf">
-    x=\frac{-b\pm \sqrt{b^2-4ac}}{2a}
+    box-shadow: 0 0 8px rgba(0, 0, 0, .2);">
+  x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 </math-field>
 
-<label>Latex</label>
-
-<textarea style="
-    font-size: 32px; 
-    margin: 3em;
-    padding: 8px; 
-    border-radius: 8px;
-    border: 1px solid rgba(0, 0, 0, .3); 
-    box-shadow: 0 0 8px rgba(0, 0, 0, .2);
-", class="output" id="latex" autocapitalize="on" autocomplete="on" autocorrect="on" spellcheck="true">
 
 
-<script src="//unpkg.com/mathlive/dist/mathlive.min.js">
-    import 'mathlive';
-document.getElementById('mf').setOptions({
-  virtualKeyboardMode: "manual",
-  virtualKeyboards: 'numeric symbols'
-});
-</script>
 
 
 

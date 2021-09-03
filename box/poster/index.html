@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang='zh' ><meta charset="utf-8">
 
-
-<script src="https://l2dwidget.js.org/lib/L2Dwidget.min.js"></script>
-<!--<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>-->
+<script src="./lib/L2Dwidget.min.js"></script>
 
 <script>
     L2Dwidget.init({
@@ -30,77 +28,17 @@
         "dialog": {
             "enable": true,
             "script": {
-                'every idle 15s': '$hitokoto$',
-                'tap body': '由xiazeyu的js脚本制作，感谢大佬！',
-                'tap face': '目前的语句使用一言API生成~',
+                'tap body': '\n使用xiazeyu的js脚本制作，感谢大佬！',
+                'tap face': '\n诗词的选取随时间、地点、天气而变化~\n\n —— 今日诗词API',
             }
         }
     });
 </script>
 
-<!--
-<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-<div id="poem_sentence"></div>
-<div id="poem_info"></div>
-<script type="text/javascript">
-  jinrishici.load(function(result) {
-    var sentence = document.querySelector("#poem_sentence")
-    var info = document.querySelector("#poem_info")
-    sentence.innerHTML = result.data.content
-    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'
-  });
-</script>
--->
 
-<!--
-<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
-<script>
-    $(function(){
-    　　function n(n,e,t){
-       　　return n.getAttribute(e)||t
-       }
-       function e(n){
-       　　return document.getElementsByTagName(n)
-       }
-       function t(){
-       　　var t=e("script"),o=t.length,i=t[o-1];
-          return{l:o,z:n(i,"zIndex",-1),o:n(i,"opacity",0.4),c:n(i,"color","30,200,70"),n:n(i,"count",150)}
-       }
-       function o(){
-       　　a=m.width=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth,
-          c=m.height=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight
-       }
-       function i(){
-       　　r.clearRect(0,0,a,c);
-          var n,e,t,o,m,l;
-          s.forEach(function(i,x){
-          　　for(i.x+=i.xa,i.y+=i.ya,i.xa*=i.x>a||i.x<0?-1:1,i.ya*=i.y>c||i.y<0?-1:1,r.fillRect(i.x-.5,i.y-.5,1,1),e=x+1;e<u.length;e++)n=u[e],
-             　　null!==n.x&&null!==n.y&&(o=i.x-n.x,m=i.y-n.y,
-             　　l=o*o+m*m,l<n.max&&(n===y&&l>=n.max/2&&(i.x-=.03*o,i.y-=.03*m),
-                t=(n.max-l)/n.max,r.beginPath(),r.lineWidth=t/2,r.strokeStyle="rgba("+d.c+","+(t+.2)+")",r.moveTo(i.x,i.y),r.lineTo(n.x,n.y),r.stroke()))
-          }),
-          x(i)
-　　　　}
-　　　　var a,c,u,m=document.createElement("canvas"),d=t(),l="c_n"+d.l,r=m.getContext("2d"),
-       x=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||
-　　　　function(n){
-　　　　　　window.setTimeout(n,1e3/45)
-　　　　},
-　　　　w=Math.random,y={x:null,y:null,max:1e3};m.id=l,m.style.cssText="position:fixed;top:0;left:0;z-index:"+d.z+";opacity:"+d.o,e("body")[0].appendChild(m),o(),window.onresize=o,
-　　　　window.onmousemove=function(n){
-　　　　　　n=n||window.event,y.x=n.clientX,y.y=n.clientY
-　　　　},
-　　　　window.onmouseout=function(){
-　　　　　　y.x=null,y.y=null
-　　　　};
-    　 for(var s=[],f=0;d.n>f;f++){
-        　　var h=w()*a,g=w()*c,v=2*w()-1,p=2*w()-1;s.push({x:h,y:g,xa:v,ya:p,max:3e4})
-       }
-    　　u=s.concat([y]),
-    　　setTimeout(function(){i()},100)
-    });
-</script>
--->
+
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+
 
 
 <meta name="viewport" content="width=device-width">
@@ -328,7 +266,10 @@
         </div>
 
 
-    
+
+
+
+
 </div>
 <script>
     document.addEventListener('DOMContentLoaded', ()=>{
@@ -345,6 +286,42 @@
     <p class="text-sm text-tertiary-text">&copy; 2021 <a href="https://hbai.site/">H. Bai</a></p>
 </div></div>
   </footer>
+
+
+
+
+<script>
+var sentence
+var origin
+var translate
+var tags
+</script>
+
+<script type="text/javascript">
+function GetPoemInfo(){
+  jinrishici.load(function(result) {
+    sentence = result.data.content + '\n\n【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》\n\n' + result.data.matchTags.join(" | ")
+    origin = result.data.origin.content
+    translate = result.data.origin.translate
+    tags = result.data.matchTags
+  });
+  }
+</script>
+
+
+<script>
+GetPoemInfo();
+setTimeout('L2Dwidget.alert(sentence);', 2000);
+setTimeout('GetPoemInfo();', 3000);
+</script>
+
+
+<script>
+setInterval('GetPoemInfo();L2Dwidget.alert(sentence);', 15000);
+</script>
+
+
+
 </body>
 
 </html>
