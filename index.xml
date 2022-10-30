@@ -8,7 +8,27 @@
     <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A brief introduction from geometric perspective</title>
+      <link>https://hbai.site/docs/lie_groups/1_a-brief-introduction-from-geometric-perspective/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/docs/lie_groups/1_a-brief-introduction-from-geometric-perspective/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;从微分几何视角对李群及李代数的简明引入&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some algebras</title>
+      <link>https://hbai.site/docs/lie_groups/2_some-algebras/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/docs/lie_groups/2_some-algebras/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;讨论李群及李代数的基本代数结构与表示&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>博客</title>
       <link>https://hbai.site/posts/%E5%8D%9A%E5%AE%A2/</link>
@@ -16,42 +36,6 @@
       
       <guid>https://hbai.site/posts/%E5%8D%9A%E5%AE%A2/</guid>
       <description>&lt;p&gt;今天建立了自己的博客，希望自己勤于思考和书写，伴随着灵魂的丰富积累一份有形的思想。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 1</title>
-      <link>https://hbai.site/docs/test-doc/chapter-1/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hbai.site/docs/test-doc/chapter-1/</guid>
-      <description>&lt;p&gt;This is chapter 1 of test doc.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 1</title>
-      <link>https://hbai.site/docs/test-doc/nested-chapter/chapter-1/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hbai.site/docs/test-doc/nested-chapter/chapter-1/</guid>
-      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 2</title>
-      <link>https://hbai.site/docs/test-doc/chapter-2/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hbai.site/docs/test-doc/chapter-2/</guid>
-      <description>&lt;p&gt;This is chapter 2 of test doc.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 2</title>
-      <link>https://hbai.site/docs/test-doc/nested-chapter/chapter-2/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hbai.site/docs/test-doc/nested-chapter/chapter-2/</guid>
-      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
     </item>
     
     <item>

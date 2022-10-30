@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A brief introduction from geometric perspective on 收集羽毛</title>
+    <link>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/</link>
+    <description>Recent content in A brief introduction from geometric perspective on 收集羽毛</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lie groups as manifolds</title>
+      <link>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/1_lie-groups-as-manifolds/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/1_lie-groups-as-manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lie algebras as sets of vector fields</title>
+      <link>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/2_lie-algebras-as-sets-of-vector-fields/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/2_lie-algebras-as-sets-of-vector-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential mapping unto flows</title>
+      <link>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/3_exponential-mapping-unto-flows/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/3_exponential-mapping-unto-flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action of Lie groups on other manifolds</title>
+      <link>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/4_action-of-lie-groups-on-other-manifolds/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hbai.site/docs/lie_groups/1_-a-brief-introduction-from-geometric-perspective/4_action-of-lie-groups-on-other-manifolds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
