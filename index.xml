@@ -10,21 +10,21 @@
 </copyright>
     <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A brief introduction from geometric perspective</title>
-      <link>https://hbai.site/docs/lie_groups/1_a-brief-introduction-from-geometric-perspective/</link>
+      <title>Chapter 1 : A brief introduction from geometric perspective</title>
+      <link>https://hbai.site/docs/lie_groups/c1/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hbai.site/docs/lie_groups/1_a-brief-introduction-from-geometric-perspective/</guid>
+      <guid>https://hbai.site/docs/lie_groups/c1/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;从微分几何视角对李群及李代数的简明引入&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Some algebras</title>
-      <link>https://hbai.site/docs/lie_groups/2_some-algebras/</link>
+      <link>https://hbai.site/docs/lie_groups/c2/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hbai.site/docs/lie_groups/2_some-algebras/</guid>
+      <guid>https://hbai.site/docs/lie_groups/c2/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;讨论李群及李代数的基本代数结构与表示&lt;/p&gt;</description>
     </item>

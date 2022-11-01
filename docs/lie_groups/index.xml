@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lie Groups in Physics  |  夫风生于地，起于青蘋之末 on 收集羽毛</title>
+    <title>Lie Groups in Physics |  夫风生于地，起于青蘋之末 on 收集羽毛</title>
     <link>https://hbai.site/docs/lie_groups/</link>
-    <description>Recent content in Lie Groups in Physics  |  夫风生于地，起于青蘋之末 on 收集羽毛</description>
+    <description>Recent content in Lie Groups in Physics |  夫风生于地，起于青蘋之末 on 收集羽毛</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://hbai.site/&#34;&gt;H. Bai&lt;/a&gt;
 </copyright>
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hbai.site/docs/lie_groups/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A brief introduction from geometric perspective</title>
-      <link>https://hbai.site/docs/lie_groups/1_a-brief-introduction-from-geometric-perspective/</link>
+      <title>Chapter 1 : A brief introduction from geometric perspective</title>
+      <link>https://hbai.site/docs/lie_groups/c1/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hbai.site/docs/lie_groups/1_a-brief-introduction-from-geometric-perspective/</guid>
+      <guid>https://hbai.site/docs/lie_groups/c1/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;从微分几何视角对李群及李代数的简明引入&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Some algebras</title>
-      <link>https://hbai.site/docs/lie_groups/2_some-algebras/</link>
+      <link>https://hbai.site/docs/lie_groups/c2/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hbai.site/docs/lie_groups/2_some-algebras/</guid>
+      <guid>https://hbai.site/docs/lie_groups/c2/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;讨论李群及李代数的基本代数结构与表示&lt;/p&gt;</description>
     </item>
