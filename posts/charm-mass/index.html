@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang='zh' ><meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<title>收集羽毛</title>
+
+<meta name="generator" content="Hugo Eureka 0.8.2" />
+<link rel="stylesheet" href="https://hbai.site/css/eureka.min.css">
+<script defer src="https://hbai.site/js/eureka.min.js"></script>
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap"
+  as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/styles/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/highlight.min.js"
+   crossorigin></script>
+
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/languages/dart.min.js"
+     crossorigin></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/js/all.min.js"
+   integrity="sha256-uNYoXefWRqv&#43;PsIF/OflNmwtKM4lStn9yrz2gVl6ymo="  crossorigin></script>
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+   integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3&#43;Aro6EYUG4&#43;cU&#43;KJWu/X"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" 
+  integrity="sha384-g7c&#43;Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI&#43;sEnkvrMWph2EDg4"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js"
+   integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC&#43;Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.9.2/dist/mermaid.min.js" 
+  integrity="sha256-Zmpaaj&#43;GXFsPF5WdPArSrnW3b30dovldeKsW00xBVwE="  crossorigin></script>
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="https://hbai.site/images/icon_hu4e095ec7151585d8b5292779dc1261c0_28881_32x32_fill_box_center_3.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://hbai.site/images/icon_hu4e095ec7151585d8b5292779dc1261c0_28881_180x180_fill_box_center_3.png">
+
+<meta name="description"
+  content="Charm mass test 一. 参数与测试 1. 参数含义 主要调整的参数有： 计算c夸克传">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1 ,
+      "name":"文章",
+      "item":"https://hbai.site/posts/"},{
+      "@type": "ListItem",
+      "position": 2 ,
+      "name":"",
+      "item":"https://hbai.site/posts/charm-mass/"}]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://hbai.site/posts/charm-mass/"
+    },
+    "headline": "收集羽毛","wordCount":  2287 ,
+    "publisher": {
+        "@type": "Person",
+        "name": "H. Bai",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://hbai.site/images/icon.png"
+        }
+        },
+    "description": "Charm mass test 一. 参数与测试 1. 参数含义 主要调整的参数有： 计算c夸克传"
+}
+</script><meta property="og:title" content="收集羽毛" />
+<meta property="og:type" content="article" />
+
+
+<meta property="og:image" content="https://hbai.site/images/icon.png">
+
+
+<meta property="og:url" content="https://hbai.site/posts/charm-mass/" />
+
+
+
+
+<meta property="og:description" content="Charm mass test 一. 参数与测试 1. 参数含义 主要调整的参数有： 计算c夸克传" />
+
+
+
+
+<meta property="og:locale" content="zh" />
+
+
+
+
+<meta property="og:site_name" content="收集羽毛" />
+
+
+
+
+
+
+
+
+
+<meta property="article:section" content="posts" />
+
+
+
+
+<body class="flex flex-col min-h-screen">
+  <header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
+    <div class="w-full max-w-screen-xl mx-auto"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="mr-6 text-primary-text text-xl font-bold">收集羽毛</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:flex-grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:flex-grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  selected-menu-item  mr-4">文章</a>
+            <a href="/docs/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">文档</a>
+            <a href="/box/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">盒子</a>
+            <a href="/friends/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">朋友</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">浅色</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">深色</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">自动</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+    });
+</script>
+</div>
+  </header>
+  <main class="flex-grow pt-16">
+    <div class="pl-scrollbar">
+      <div class="w-full max-w-screen-xl lg:px-4 xl:px-8 mx-auto">
+
+
+<div class="grid grid-cols-2 lg:grid-cols-8 gap-4 lg:pt-12">
+    <div
+        class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
+        <h1 class="font-bold text-3xl text-primary-text"></h1>
+        <div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
+    <div class="mr-6 my-2">
+        <i class="fas fa-calendar mr-1"></i>
+        <span>0001-01-01</span>
+    </div>
+    <div class="mr-6 my-2">
+        <i class="fas fa-clock mr-1"></i>
+        <span>5分钟阅读时长</span>
+    </div>
+    
+    
+
+    
+</div>
+        
+        
+        
+
+        <div class="content">
+            <h3 id="charm-mass-test">Charm mass test</h3>
+<h4 id="一-参数与测试">一. 参数与测试</h4>
+<h5 id="1-参数含义">1. 参数含义</h5>
+<p>主要调整的参数有：
+计算c夸克传播子时传入的组分夸克质量charm_mass以及clover系数
+计算J/Psi及EtaC的2pt时，夸克和介子的动量设置</p>
+<p>如无说明，质量的单位均为GeV
+程序中动量的写法为“504948”，代表三方向分量为 (0,1,2) 倒格子单位的动量。
+正反夸克传播子动量Pa，Pb与介子动量Pm间满足 Pm=Pa-Pb（此处为对应的矢量关系式，不是程序中的“505050”类型，之后会不加区分地用来表示）</p>
+<p>组态为C11P29S，项目路径昆山/public/home/acco87wavc/hbai/charm_mass</p>
+<h5 id="2-jpsi及etac的2pt数据正确性测试">2. J/Psi及EtaC的2pt数据正确性测试</h5>
+<p>原始参数 clover = 1.160920226, charm_mass = 0.4780 下，对于夸克与介子动量
+Pa=505050, Pb=505050, Pm=505050
+Pa=494949, Pb=494949, Pm=505050
+分别计算J/Psi及EtaC的2pt及对应的effective mass
+预期结果应在物理质量附近且两组动量下的effective mass值一致（介子总动量均为0）</p>
+<p>结果：</p>
+<h6 id="jpsi">J/Psi</h6>
+<p>Pa=505050, Pb=505050, Pm=505050
+<img src="en-resource://database/4523:1" alt="456278ca2b7d3a333c22121da8205695.jpeg">
+Pa=494949, Pb=494949, Pm=505050
+<img src="en-resource://database/4521:1" alt="97a1e6839d660e48f1ff0f132933c886.jpeg"></p>
+<h6 id="etac">EtaC</h6>
+<p>Pa=505050, Pb=505050, Pm=505050
+<img src="en-resource://database/4519:1" alt="f9d0d988e0a260de80f2de30e98fb018.jpeg">
+Pa=494949, Pb=494949, Pm=505050
+<img src="en-resource://database/4517:1" alt="05e4dd0e3b44511a0eb85d8a054ff525.jpeg"></p>
+<p>有效质量值符合预期</p>
+<p>观察到 Pa=494949, Pb=494949, Pm=505050 动量组下，有效质量的平台更早的出现，是否是由于激发态贡献占比减小引起？</p>
+<h5 id="3-修改clover系数带来的变化">3. 修改clover系数带来的变化</h5>
+<p>固定原始 charm_mass = 0.4780，及零动量 Pa=505050, Pb=505050, Pm=505050
+改变clover系数：1.160920226, 1.5, 1.9
+观察J/Psi与EtaC的effective mass及splitting的变化</p>
+<p>结果：</p>
+<p>clover = 1.160920226
+<img src="en-resource://database/4529:1" alt="c5876a684aa5674504dae468c1c55a38.jpeg">
+clover = 1.5
+<img src="en-resource://database/4525:1" alt="d66f0518a8607cbf9e0c79b4ac3fce6f.jpeg">
+clover = 1.9
+<img src="en-resource://database/4527:1" alt="fc93ecd4de46cb309f6d40e013181990.jpeg"></p>
+<p>可以看出随着clover系数的增加，在不调整charm夸克组分质量的情况下得到的J/Psi与EtaC的effective mass逐渐减小，但splitting增大</p>
+<p>考虑到原始clover系数下的splitting相较物理结果偏小，预期我们可以通过增大clover系数，使得在J/Psi质量对齐到物理质量后，相应的EtaC质量更接近物理质量</p>
+<h4 id="二-各clover系数下charm-mass的确定">二. 各clover系数下charm mass的确定</h4>
+<p>选择clover系数：1.160920226, 1.3, 1.5, 1.7, 1.9, 2.1
+在每个clover系数下，调整charm_mass并计算J/Psi的有效质量，得到能够使J/Psi的effective mass最接近物理质量的charm_mass，并在这一charm_mass下计算EtaC的有效质量</p>
+<h5 id="clover--1160920226">clover = 1.160920226</h5>
+<table>
+<thead>
+<tr>
+<th>clover系数</th>
+<th>charm_mass</th>
+<th>J/Psi质量</th>
+<th>EtaC质量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.160920226</td>
+<td>0.4780</td>
+<td>3.1660726</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.4675</td>
+<td>3.1434220</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.4500</td>
+<td>3.1053004</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.4457</td>
+<td>3.0958612</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.4460</td>
+<td>3.0965207</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.4461</td>
+<td>3.0967405</td>
+<td></td>
+</tr>
+<tr>
+<td>最接近物理点</td>
+<td>0.4462</td>
+<td>3.0969603</td>
+<td>3.0380122</td>
+</tr>
+</tbody>
+</table>
+<h5 id="clover--13">clover = 1.3</h5>
+<table>
+<thead>
+<tr>
+<th>clover系数</th>
+<th>charm_mass</th>
+<th>J/Psi质量</th>
+<th>EtaC质量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.3</td>
+<td>0.4780</td>
+<td>3.0999506</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.4768</td>
+<td>3.0972735</td>
+<td></td>
+</tr>
+<tr>
+<td>最接近物理点</td>
+<td>0.4766</td>
+<td>3.0968271</td>
+<td>3.0306411</td>
+</tr>
+</tbody>
+</table>
+<h5 id="clover--15">clover = 1.5</h5>
+<table>
+<thead>
+<tr>
+<th>clover系数</th>
+<th>charm_mass</th>
+<th>J/Psi质量</th>
+<th>EtaC质量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.5</td>
+<td>0.4780</td>
+<td>2.9895044</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.4900</td>
+<td>3.0178154</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.5122</td>
+<td>3.0694772</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.5250</td>
+<td>3.0988552</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.5240</td>
+<td>3.0965706</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.5242</td>
+<td>3.0970277</td>
+<td></td>
+</tr>
+<tr>
+<td>最接近物理点</td>
+<td>0.5241</td>
+<td>3.0967991</td>
+<td>3.0194642</td>
+</tr>
+</tbody>
+</table>
+<h5 id="clover--17">clover = 1.7</h5>
+<table>
+<thead>
+<tr>
+<th>clover系数</th>
+<th>charm_mass</th>
+<th>J/Psi质量</th>
+<th>EtaC质量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.7</td>
+<td>0. 5280</td>
+<td>2.9821225</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.5500</td>
+<td>3.0352866</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.5750</td>
+<td>3.0945137</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.5800</td>
+<td>3.1062127</td>
+<td></td>
+</tr>
+<tr>
+<td>最接近物理点</td>
+<td>0.5760</td>
+<td>3.0968574</td>
+<td>3.0075130</td>
+</tr>
+</tbody>
+</table>
+<h5 id="clover--19">clover = 1.9</h5>
+<table>
+<thead>
+<tr>
+<th>clover系数</th>
+<th>charm_mass</th>
+<th>J/Psi质量</th>
+<th>EtaC质量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.9</td>
+<td>0.6000</td>
+<td>3.0182700</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.6500</td>
+<td>3.1392875</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.6325</td>
+<td>3.0975307</td>
+<td></td>
+</tr>
+<tr>
+<td>最接近物理点</td>
+<td>0.6322</td>
+<td>3.0968094</td>
+<td>2.9946031</td>
+</tr>
+</tbody>
+</table>
+<h5 id="clover--21">clover = 2.1</h5>
+<table>
+<thead>
+<tr>
+<th>clover系数</th>
+<th>charm_mass</th>
+<th>J/Psi质量</th>
+<th>EtaC质量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2.1</td>
+<td>0.6800</td>
+<td>3.0651161</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.6950</td>
+<td>3.1023727</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0.6930</td>
+<td>3.0974348</td>
+<td></td>
+</tr>
+<tr>
+<td>最接近物理点</td>
+<td>0.6928</td>
+<td>3.0969406</td>
+<td>2.9810387</td>
+</tr>
+</tbody>
+</table>
+<p>可以看出，符合上节预期的趋势</p>
+<h4 id="三-clover系数引起的变化">三. clover系数引起的变化</h4>
+<h5 id="1-各clover系数下jpsi有效质量对齐到物理点后的splitting结果">1. 各clover系数下，J/Psi有效质量对齐到物理点后的splitting结果</h5>
+<p>clover = 1.160920226, charm_mass = 0.4462
+<img src="en-resource://database/4539:1" alt="75fc1e078d86dc1a9add27102cb69a18.jpeg">
+clover = 1.3, charm_mass = 0.4766
+<img src="en-resource://database/4531:1" alt="d92ea3e906948075ed499464518486a9.jpeg">
+clover = 1.5, charm_mass = 0.5241
+<img src="en-resource://database/4533:1" alt="6e1bfd7fcd092021f063e91cf1f01408.jpeg">
+clove r= 1.7, charm_mass = 0.5760
+<img src="en-resource://database/4535:1" alt="60012931da4309d99500debe999fe2d5.jpeg">
+clover = 1.9, charm_mass = 0.6322
+<img src="en-resource://database/4537:1" alt="26a1c756297737d4db78fd067f944d9c.jpeg">
+clover = 2.1, charm_mass = 0.6928
+<img src="en-resource://database/4541:1" alt="000b754f3f5adf02ea45c3bbda9f619d.jpeg"></p>
+<p>随着clover增大，splitting的变化较为明显</p>
+<h5 id="2-得到的effective-mass及splitting关于clover系数的依赖关系">2. 得到的effective mass及splitting关于clover系数的依赖关系</h5>
+<p>绘制得到的effective mass及splitting随clover增大的变化关系</p>
+<p><img src="en-resource://database/4543:1" alt="f857aada6c94790574288fd9317aded6.png"></p>
+<p>可以看出随着clover增大，在J/Psi的effective mass标定到物理点的情况下，得到的EtaC的effective mass相应地下降并接近物理值</p>
+<h5 id="3-jpsi有效质量对齐时的charm_mass关于clover系数的依赖关系">3. J/Psi有效质量对齐时的charm_mass关于clover系数的依赖关系</h5>
+<p><img src="en-resource://database/4545:1" alt="0a488213ba2981f8f52e5a44c86d1542.png"></p>
+<h4 id="四-检验能动量关系">四. 检验能动量关系</h4>
+<h5 id="1-使用的动量列表">1. 使用的动量列表</h5>
+<table>
+<thead>
+<tr>
+<th>总动量平方$P_m^2$</th>
+<th>动量分量$\vec{P_m}=-\vec{P_a}+\vec{P_b}$</th>
+<th>$P_a$</th>
+<th>$P_b$</th>
+<th>$P_m$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>(0,0,0) = - (0,0,0) + (0,0,0)</td>
+<td>505050</td>
+<td>505050</td>
+<td>505050</td>
+</tr>
+<tr>
+<td>1</td>
+<td>(0,0,1) = - (0,0,0) + (0,0,1)</td>
+<td>505050</td>
+<td>505049</td>
+<td>505049</td>
+</tr>
+<tr>
+<td>2</td>
+<td>(0,1,1) = - (0,0,0) + (0,1,1)</td>
+<td>505050</td>
+<td>504949</td>
+<td>504949</td>
+</tr>
+<tr>
+<td>3</td>
+<td>(1,1,1) = - (0,0,0) + (1,1,1)</td>
+<td>505050</td>
+<td>494949</td>
+<td>494949</td>
+</tr>
+<tr>
+<td>4</td>
+<td>(0,0,2) = - (0,0,-1) + (0,0,1)</td>
+<td>505051</td>
+<td>505049</td>
+<td>505048</td>
+</tr>
+<tr>
+<td>5</td>
+<td>(0,1,2) = - (0,0,-1) + (0,1,1)</td>
+<td>505051</td>
+<td>504949</td>
+<td>504948</td>
+</tr>
+<tr>
+<td>6</td>
+<td>(1,1,2) = - (0,0,-1) + (1,1,1)</td>
+<td>505051</td>
+<td>494949</td>
+<td>494948</td>
+</tr>
+</tbody>
+</table>
+<h5 id="2-检查各动量2pt及effective-mass结果">2. 检查各动量2pt及effective mass结果</h5>
+<h6 id="jpsi-clover--1160920226-charm_mass--04462">J/Psi, clover = 1.160920226, charm_mass = 0.4462</h6>
+<p>$P_m^2$=0, Pa=505050, Pb=505050, Pm=505050
+<img src="en-resource://database/4553:1" alt="cefa3ba921a1bb32575f7227e47dc259.jpeg">
+$P_m^2$=1, Pa=505050, Pb=505049, Pm=505049
+<img src="en-resource://database/4551:1" alt="8a021bdedde80195b7b428c68ecf4b53.jpeg">
+$P_m^2$=2, Pa=505050, Pb=504949, Pm=504949
+<img src="en-resource://database/4549:1" alt="0054ddd9b877487364faefe043795879.jpeg">
+$P_m^2$=3, Pa=505050, Pb=494949, Pm=494949
+<img src="en-resource://database/4547:1" alt="e575ff684ffb84a7927dd6f1077bf334.jpeg">
+$P_m^2$=4, Pa=505051, Pb=505049, Pm=505048
+<img src="en-resource://database/4559:1" alt="aced1970550d047b7a7aa1f06a3a65ce.jpeg">
+$P_m^2$=5, Pa=505051, Pb=504949, Pm=504948
+<img src="en-resource://database/4557:1" alt="8dcb50bec3cb86c4b066bff20e8bac57.jpeg">
+$P_m^2$=6, Pa=505051, Pb=494949, Pm=494948
+<img src="en-resource://database/4555:1" alt="c36c1d09c3d57b56aec6d6e6b0b847e9.jpeg"></p>
+<h6 id="jpsi-clover--21-charm_mass--06928">J/Psi, clover = 2.1, charm_mass = 0.6928</h6>
+<p>$P_m^2$=0, Pa=505050, Pb=505050, Pm=505050
+<img src="en-resource://database/4567:1" alt="ecbef47eaa51e6b699a998a40ec3d975.jpeg">
+$P_m^2$=1, Pa=505050, Pb=505049, Pm=505049
+<img src="en-resource://database/4565:1" alt="d187751f20856d5e33e44029013876bb.jpeg">
+$P_m^2$=2, Pa=505050, Pb=504949, Pm=504949
+<img src="en-resource://database/4563:1" alt="f0f941138f86e78f7477c86f78a52877.jpeg">
+$P_m^2$=3, Pa=505050, Pb=494949, Pm=494949
+<img src="en-resource://database/4561:1" alt="5076fc3baae0183df02c6c0cfffee596.jpeg">
+$P_m^2$=4, Pa=505051, Pb=505049, Pm=505048
+<img src="en-resource://database/4573:1" alt="9236b3cfd53460c01f05b022b4050deb.jpeg">
+$P_m^2$=5, Pa=505051, Pb=504949, Pm=504948
+<img src="en-resource://database/4571:1" alt="1512d0d0cbba87292a65ea0c5c8f0323.jpeg">
+$P_m^2$=6, Pa=505051, Pb=494949, Pm=494948
+<img src="en-resource://database/4569:1" alt="a1f575d74ef230f64165d3a722b68d43.jpeg"></p>
+<h6 id="etac-clover--21-charm_mass--06928">EtaC, clover = 2.1, charm_mass = 0.6928</h6>
+<p>$P_m^2$=0, Pa=505050, Pb=505050, Pm=505050
+<img src="en-resource://database/4581:1" alt="a02c3638f2b4c962b66eb00fa7942886.jpeg">
+$P_m^2$=1, Pa=505050, Pb=505049, Pm=505049
+<img src="en-resource://database/4579:1" alt="e771264106c145d716048dca6985a167.jpeg">
+$P_m^2$=2, Pa=505050, Pb=504949, Pm=504949
+<img src="en-resource://database/4577:1" alt="604b435f61d15e23d46b2cfe62b855e4.jpeg">
+$P_m^2$=3, Pa=505050, Pb=494949, Pm=494949
+<img src="en-resource://database/4575:1" alt="a3a228b3c30b9d9087cfdfaf3c67961b.jpeg">
+$P_m^2$=4, Pa=505051, Pb=505049, Pm=505048
+<img src="en-resource://database/4587:1" alt="77e5d83983eded46f3578ab311133f8e.jpeg">
+$P_m^2$=5, Pa=505051, Pb=504949, Pm=504948
+<img src="en-resource://database/4585:1" alt="f0c0467a542b1fdeb777756f433b51da.jpeg">
+$P_m^2$=6, Pa=505051, Pb=494949, Pm=494948
+<img src="en-resource://database/4583:1" alt="6a1f158125b877092c46995869165976.jpeg"></p>
+<h5 id="2-测试effective-mass随动量的变化">2. 测试effective mass随动量的变化</h5>
+<h6 id="clover--1160920226-charm_mass--04462">clover = 1.160920226, charm_mass = 0.4462</h6>
+<p>$P_m^2$ = [0, 1, 2, 3, 4, 5, 6]</p>
+<h6 id="jpsi-1">J/Psi</h6>
+<p>Effective_mass = [3.0939976847031114, 3.1243442566328126, 3.1526008658252995, 3.181917558784682, 3.2059195461081536, 3.233534479294425, 3.2617241557593015]</p>
+<h6 id="etac-1">EtaC</h6>
+<p>Effective_mass = [3.0359017882826556, 3.066309030633491, 3.0956264128173068, 3.1250231641172395, 3.151299985749764, 3.1796196396655034, 3.2076078315544905]</p>
+<h6 id="clover--13-charm_mass--04766">clover = 1.3, charm_mass = 0.4766</h6>
+<p>$P_m^2$ = [0, 1, 2, 3, 4, 5, 6]</p>
+<h6 id="jpsi-2">J/Psi</h6>
+<p>Effective_mass = [3.093660368296335, 3.124199234861294, 3.1525578885442607, 3.1821321272945475, 3.2060469057599295, 3.2338278371978584, 3.2623702780245947]</p>
+<h6 id="etac-2">EtaC</h6>
+<p>Effective_mass = [3.028515282468058, 3.0590617061698264, 3.0885248571545176, 3.1180957926701356, 3.144557281692708, 3.1730128057814517, 3.2011919115872254]</p>
+<h6 id="clover--15-charm_mass--05241">clover = 1.5, charm_mass = 0.5241</h6>
+<p>$P_m^2$ = [0, 1, 2, 3, 4, 5, 6]</p>
+<h6 id="jpsi-3">J/Psi</h6>
+<p>Effective_mass = [3.0933286368853485, 3.1241557419310575, 3.1526570823297333, 3.1826149373640717, 3.2064087647000954, 3.2344411959521673, 3.2635351656707874]</p>
+<h6 id="etac-3">EtaC</h6>
+<p>Effective_mass = [3.017365452757022, 3.0481204258970696, 3.077781415090536, 3.1076029510383494, 3.134343553421942, 3.162976446840837, 3.1914323481438656]</p>
+<h6 id="clover--17-charm_mass--05760">clover = 1.7, charm_mass = 0.5760</h6>
+<p>$P_m^2$ = [0, 1, 2, 3, 4, 5, 6]</p>
+<h6 id="jpsi-4">J/Psi</h6>
+<p>Effective_mass = [3.0930838604333175, 3.124210945780832, 3.1528485455575517, 3.183201196737735, 3.2068939994188566, 3.2351922124137253, 3.2648891990820275]</p>
+<h6 id="etac-4">EtaC</h6>
+<p>Effective_mass = [3.0055003165456697, 3.036475829994043, 3.0663228152405533, 3.0963960744391463, 3.123429813486618, 3.1522175820180065, 3.180950435774096]</p>
+<h6 id="clover--19-charm_mass--06322">clover = 1.9, charm_mass = 0.6322</h6>
+<p>$P_m^2$ = [0, 1, 2, 3, 4, 5, 6]</p>
+<h6 id="jpsi-5">J/Psi</h6>
+<p>Effective_mass = [3.092750858477256, 3.1241872980916545, 3.1529520869236842, 3.183705092573078, 3.2073402127457764, 3.235915076981116, 3.2662641489267816]</p>
+<h6 id="etac-5">EtaC</h6>
+<p>Effective_mass = [2.992731299296134, 3.0239426142169594, 3.0539694637528227, 3.0842976170024015, 3.111635354012056, 3.1405566043893733, 3.1695633182482346]</p>
+<h6 id="clover--21-charm_mass--06928">clover = 2.1, charm_mass = 0.6928</h6>
+<p>$P_m^2$ = [0, 1, 2, 3, 4, 5, 6]</p>
+<h6 id="jpsi-6">J/Psi</h6>
+<p>Effective_mass = [3.092636447180901, 3.1243802284563182, 3.1532503008597317, 3.184394132741838, 3.2080436049757948, 3.236887567248424, 3.267923941771628]</p>
+<h6 id="etac-6">EtaC</h6>
+<p>Effective_mass = [2.9793529846233997, 3.0108111095041483, 3.0410133959218824, 3.07159384486916, 3.099234786769982, 3.1282648624860574, 3.157530013825287]</p>
+<h5 id="3-对各个clover系数下的dispersion-relation进行拟合">3. 对各个clover系数下的dispersion relation进行拟合</h5>
+<h6 id="对动量范围-p_m2--0-1-2-3-4-5-6-拟合">对动量范围 $P_m^2$ = [0, 1, 2, 3, 4, 5, 6] 拟合</h6>
+<p>clover = 1.160920226, charm_mass = 0.4462
+<img src="en-resource://database/4627:1" alt="c7baf479a859af0d1dba8af58dd415e9.png">
+clover = 1.3, charm_mass = 0.4766
+<img src="en-resource://database/4619:1" alt="316a4793e35c29aca62fbbc5fa4af9dc.png">
+clover = 1.5, charm_mass = 0.5241
+<img src="en-resource://database/4621:1" alt="69f0f798ef909963d16ade51e65cc560.png">
+clove r= 1.7, charm_mass = 0.5760
+<img src="en-resource://database/4623:1" alt="f07be5fe3a8b11541d24db1968cddf04.png">
+clover = 1.9, charm_mass = 0.6322
+<img src="en-resource://database/4625:1" alt="8b983bce967da80695efa54c9ae3d136.png">
+clover = 2.1, charm_mass = 0.6928
+<img src="en-resource://database/4629:1" alt="a933da301859f5788e73d7f9652d1629.png"></p>
+<h5 id="4-绘制各clover系数下jpsi的dispersion-relation">4. 绘制各clover系数下J/Psi的dispersion relation</h5>
+<h6 id="归一化的有效质量与动量的关系">归一化的有效质量与动量的关系</h6>
+<p><img src="en-resource://database/4589:1" alt="dfd7a6a5d0b5d51b95c2b78572d382e1.png"></p>
+<h6 id="归一化的有效质量平方与动量平方的关系">归一化的有效质量平方与动量平方的关系</h6>
+<p><img src="en-resource://database/4591:1" alt="bab6aa1d2d007ec29ba4c5082b20a857.png"></p>
+<h5 id="5-对各个clover系数下的dispersion-relation进行拟合">5. 对各个clover系数下的dispersion relation进行拟合</h5>
+<h6 id="对动量范围-p_m2--0-1-2-3-4-5-6-拟合-1">对动量范围 $P_m^2$ = [0, 1, 2, 3, 4, 5, 6] 拟合</h6>
+<p>clover = 1.160920226, charm_mass = 0.4462
+<img src="en-resource://database/4601:1" alt="0d5807326451ffcd927a1c4674a484aa.png">
+clover = 1.3, charm_mass = 0.4766
+<img src="en-resource://database/4593:1" alt="155b2e169ca3e099662b226000dc5e62.png">
+clover = 1.5, charm_mass = 0.5241
+<img src="en-resource://database/4595:1" alt="fe80bac29955db05e029c512f53abfd3.png">
+clove r= 1.7, charm_mass = 0.5760
+<img src="en-resource://database/4597:1" alt="699b8447ba1f3a73e503d05117b64e13.png">
+clover = 1.9, charm_mass = 0.6322
+<img src="en-resource://database/4599:1" alt="d71756a30294ca077e558ca6bbd87ee7.png">
+clover = 2.1, charm_mass = 0.6928
+<img src="en-resource://database/4605:1" alt="64751adaa5c60cdca02698a242dbb4c3.png"></p>
+<h6 id="只对前五个动量-p_m2--0-1-2-3-4-拟合">只对前五个动量 $P_m^2$ = [0, 1, 2, 3, 4] 拟合</h6>
+<p>clover = 1.160920226, charm_mass = 0.4462
+<img src="en-resource://database/4615:1" alt="22c61bf7916ddf1b7723a716f44f18bc.png">
+clover = 1.3, charm_mass = 0.4766
+<img src="en-resource://database/4607:1" alt="5cd62eea6c7e6c870ad813ef255ad204.png">
+clover = 1.5, charm_mass = 0.5241
+<img src="en-resource://database/4609:1" alt="24f44ba82dedc200f1e7412388cc1d93.png">
+clove r= 1.7, charm_mass = 0.5760
+<img src="en-resource://database/4611:1" alt="32d14dc488640eef9430c22f23cff6e0.png">
+clover = 1.9, charm_mass = 0.6322
+<img src="en-resource://database/4613:1" alt="03b7dc931e91c0bc3f50ac3002fb2d16.png">
+clover = 2.1, charm_mass = 0.6928
+<img src="en-resource://database/4617:1" alt="ff6dc0644e3322b044f3eaa3037ce118.png"></p>
+
+        </div>
+        
+        
+        
+
+
+        
+        
+        
+        
+<div class="flex flex-col md:flex-row md:justify-between -mx-2 mt-4 px-2 pt-4 border-t">
+    <div>
+        
+        <span class="block font-bold">上一页</span>
+        <a href="https://hbai.site/posts/%E6%98%9F%E7%A9%BA/" class="block">星空</a>
+        
+    </div>
+    <div class="md:text-right mt-4 md:mt-0">
+        
+    </div>
+</div>
+
+        
+
+
+
+  <script id="utterances" src="https://utteranc.es/client.js"
+            issue-term=pathname
+            repo=haoyangbai/utterances_comments
+              theme=preferred-color-scheme
+        crossorigin="anonymous"
+        async>
+</script>
+<script>
+    if (storageColorScheme == "Light") {
+      document.getElementById('utterances').setAttribute('theme', 'github-light')
+    } else if (storageColorScheme == "Dark") {
+      document.getElementById('utterances').setAttribute('theme', 'github-dark')
+    }
+</script>
+
+    </div>
+    
+
+    
+    
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', ()=>{
+        hljs.initHighlightingOnLoad();
+    })
+</script>
+
+      </div>
+    </div>
+    
+  </main>
+  <footer class="pl-scrollbar">
+    <div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">&copy; 2021 <a href="https://hbai.site/">H. Bai</a>
+ &middot;  Powered by <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div></div>
+  </footer>
+</body>
+
+</html>
