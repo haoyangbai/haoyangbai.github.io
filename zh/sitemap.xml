@@ -8,8 +8,82 @@
     <loc>https://hbai.site/docs/lie_groups/c2/</loc>
     <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hbai.site/authors/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbai.site/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hbai.site/authors/"
+                />
+  </url><url>
+    <loc>https://hbai.site/categories/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbai.site/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hbai.site/categories/"
+                />
+  </url><url>
+    <loc>https://hbai.site/authors/hbai/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbai.site/en/authors/hbai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hbai.site/authors/hbai/"
+                />
+  </url><url>
+    <loc>https://hbai.site/series/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbai.site/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hbai.site/series/"
+                />
+  </url><url>
+    <loc>https://hbai.site/tags/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbai.site/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hbai.site/tags/"
+                />
+  </url><url>
+    <loc>https://hbai.site/posts/%E5%80%99%E9%B8%9F/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbai.site/series/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbai.site/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hbai.site/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +94,25 @@
                 hreflang="zh"
                 href="https://hbai.site/"
                 />
+  </url><url>
+    <loc>https://hbai.site/posts/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hbai.site/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hbai.site/posts/"
+                />
+  </url><url>
+    <loc>https://hbai.site/categories/%E7%9F%AD%E7%AF%87/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hbai.site/tags/%E7%A7%91%E5%B9%BB/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hbai.site/docs/</loc>
     <lastmod>2022-10-30T00:00:00+00:00</lastmod>
@@ -34,60 +127,8 @@
                 href="https://hbai.site/docs/"
                 />
   </url><url>
-    <loc>https://hbai.site/authors/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbai.site/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hbai.site/authors/"
-                />
-  </url><url>
-    <loc>https://hbai.site/categories/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbai.site/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hbai.site/categories/"
-                />
-  </url><url>
-    <loc>https://hbai.site/authors/hbai/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbai.site/en/authors/hbai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hbai.site/authors/hbai/"
-                />
-  </url><url>
     <loc>https://hbai.site/docs/lie_groups/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hbai.site/tags/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbai.site/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hbai.site/tags/"
-                />
   </url><url>
     <loc>https://hbai.site/tags/%E5%9C%BA%E8%AE%BA/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
@@ -125,37 +166,11 @@
     <loc>https://hbai.site/posts/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hbai.site/posts/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbai.site/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hbai.site/posts/"
-                />
-  </url><url>
     <loc>https://hbai.site/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hbai.site/tags/%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hbai.site/series/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbai.site/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hbai.site/series/"
-                />
   </url><url>
     <loc>https://hbai.site/tags/%E5%8D%8F%E5%A5%8F%E6%9B%B2/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
@@ -205,13 +220,7 @@
     <loc>https://hbai.site/posts/%E6%97%B6%E9%97%B4%E4%B8%8E%E8%87%AA%E7%94%B1%E6%84%8F%E8%AF%86/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hbai.site/series/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://hbai.site/tags/%E5%A4%84%E5%A5%B3%E4%BD%9C/</loc>
-    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hbai.site/tags/%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hbai.site/tags/%E5%B0%91%E5%B9%B4%E7%8F%AD/</loc>
@@ -222,11 +231,6 @@
   </url><url>
     <loc>https://hbai.site/posts/%E6%98%9F%E7%A9%BA/</loc>
     <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hbai.site/categories/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hbai.site/posts/charm-mass/</loc>
   </url><url>
     <loc>https://hbai.site/authors/kzhang/</loc>
   </url><url>
